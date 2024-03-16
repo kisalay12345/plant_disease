@@ -1,4 +1,0 @@
-keras==3.0.5
-numpy==1.26.4
-streamlit==1.32.2
-streamlit==0.71.0
